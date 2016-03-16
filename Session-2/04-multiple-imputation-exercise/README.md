@@ -6,7 +6,7 @@
 * R script contained in "imputation_exercise.R"
 
 ### Overview
-1. A complete life-history trait dataset is provided, with information for 273 mammalian carnivores: Body Mass, Litter Size, Longevity, Habitat Breadth, Head-Body Lenngth, Diet Breadth, Gestation Length, Weaning Age.
+1. A complete life-history trait dataset is provided, with information for 273 mammalian carnivores: body mass, litter size, longevity, habitat breadth, head-body length, diet breadth, gestation length, weaning age.
 
 2. The purpose is to evaluate the allometric relationship between body mass and longevity:
 	* log(longevity)= a*log(body mass) + log(k)
