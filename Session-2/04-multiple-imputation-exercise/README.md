@@ -1,9 +1,9 @@
 # Handling missing exercise
-## Moreno Di Marco (m.dimarco@uq.edu.au)
+#### Moreno Di Marco (m.dimarco@uq.edu.au)
 
 ### Repository contents
-	* Data obtained from [Penone et al. (2014)](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12232/abstract) stored in "carnivora_data_complete.csv". Note that the original dataset contained missing data which have been imputed to simulate a complete dataset for this exercise.
-	* R script contained in "imputation_exercise.R"
+* Data obtained from [Penone et al. (2014)](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12232/abstract) stored in "carnivora_data_complete.csv". Note that the original dataset contained missing data which have been imputed to simulate a complete dataset for this exercise.
+* R script contained in "imputation_exercise.R"
 
 ### Overview
 1. A complete life-history trait dataset is provided, with information for 273 mammalian carnivores: Body Mass, Litter Size, Longevity, Habitat Breadth, Head-Body Lenngth, Diet Breadth, Gestation Length, Weaning Age.
@@ -12,9 +12,9 @@
 	* log(longevity)= a*log(body mass) + log(k)
 
 3. The presence of missing data cases is simulated following different patterns:
-	* MCAR, missing completely at random
-	* MAR, missing at random
-	* MNAR, missing non at random
+	* missing completely at random (MCAR)
+	* missing at random (MAR)
+	* missing non at random (MNAR)
 
 4. The complete dataset is compared with the three incomplete datasets, by plotting the two variables of interest in a scatterplot
 
