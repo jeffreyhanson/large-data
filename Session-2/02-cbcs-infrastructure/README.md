@@ -1,5 +1,5 @@
 # Infrastructure
-####  (jeffrey.hanson@uqconnect.edu.au)
+#### Jeffrey O. Hanson (jeffrey.hanson@uqconnect.edu.au)
 
 ### Overview
 This folder contains an introduction to the various storage and compute systems available to CBCS members.
