@@ -1,11 +1,14 @@
 # Handling missing exercise
 #### Moreno Di Marco (m.dimarco@uq.edu.au)
 
+### Overview
+This folder contains .....
+
 ### Repository contents
 * Data obtained from [Penone et al. (2014)](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12232/abstract) stored in "carnivora_data_complete.csv". Note that the original dataset contained missing data which have been imputed to simulate a complete dataset for this exercise.
 * R script contained in "imputation_exercise.R"
 
-### Overview
+### Description
 1. A complete life-history trait dataset is provided, with information for 273 mammalian carnivores: body mass, litter size, longevity, habitat breadth, head-body length, diet breadth, gestation length, weaning age.
 
 2. The purpose is to evaluate the allometric relationship between body mass and longevity:

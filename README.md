@@ -7,16 +7,17 @@ Large data workshop
 
 The topics in this workshop were:
 * Session 1
-	+ [Session Introduction]()<sup>1</sup>
-	+ [Data accessibility]()<sup>5</sup>
-	+ [Data limitations]()<sup>3</sup>
-	+ [Introduction to datasets]()<sup>4</sup>
-	+ [Missing data]()<sup>4</sup>
+	1. [Session Introduction]()<sup>1</sup>
+	2. [Data accessibility]()<sup>5</sup>
+	3. [Data limitations]()<sup>3</sup>
+	4. [Introduction to datasets]()<sup>4</sup>
+	5. [Missing data]()<sup>4</sup>
 
 * Session 2
-	+ [Session Introduction]()<sup>1</sup>
-	+ [Infrastructure overview & demonstration]()<sup>2</sup>
-	+ [Multiple Imputation exercise]()<sup>4</sup>
-	+ [Pre-processing data]()<sup>5</sup>
+	1. [Session Introduction]()<sup>1</sup>
+	2. [Infrastructure overview & demonstration]()<sup>2</sup>
+	3. [Version control]()<sup>2</sup>
+	4. [Multiple Imputation exercise](https://github.com/CBCS-UQ/paleo13/large-data/tree/master/Session-2/04-multiple-imputation-exercise)<sup>4</sup>
+	5. [Pre-processing data exercise](https://github.com/CBCS-UQ/paleo13/large-data/tree/master/Session-2/05-pre-processing-data-exercise)<sup>5</sup>
 
 
